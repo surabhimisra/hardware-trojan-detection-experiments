@@ -45,23 +45,22 @@ Early-career contributions to the field
 Future publication and NIW/EB1A evidence-building
 
 hardware-trojan-detection-experiments
-│
-├── src/
-│   ├── rtl/               # Clean RTL designs (baseline modules)
-│   └── testbench/         # Testbenches for simulations
-│
-├── experiments/
-│   ├── logic_locking/     # XOR/XNOR locking, key-based obfuscation
-│   └── trojan_insertion/  # Trojan variations, triggers, payloads
-│
-├── scripts/               # Simulation scripts (iverilog/verilator/python)
-│
-├── results/
-│   ├── waveforms/         # VCD waveform dumps
-│   └── reports/           # Markdown/PDF experiment summaries
-│
-└── docs/
-    └── notes.md           # Research notes and reading summaries
+    ── src/
+        ── rtl/               # Clean RTL designs (baseline modules)
+        ── testbench/         # Testbenches for simulations
+
+    ── experiments/
+      ── logic_locking/     # XOR/XNOR locking, key-based obfuscation
+      ── trojan_insertion/  # Trojan variations, triggers, payloads
+
+    ── scripts/               # Simulation scripts (iverilog/verilator/python)
+
+    ── results/
+       ── waveforms/         # VCD waveform dumps
+       ── reports/           # Markdown/PDF experiment summaries
+
+    ── docs/
+        ── notes.md           # Research notes and reading summaries
 
 
 🧪 Experiments Included

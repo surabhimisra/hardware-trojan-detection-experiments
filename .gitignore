@@ -1,0 +1,5 @@
+*.vcd
+*.log
+__pycache__/
+*.pyc
+*.out

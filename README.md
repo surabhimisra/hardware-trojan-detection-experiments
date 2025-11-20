@@ -5,7 +5,7 @@ A Research-Oriented Repository for Security-Aware RTL Design, Logic Locking, and
 🔍 Overview
 This repository contains a structured set of experiments, RTL designs, testbenches, and analysis workflows for Hardware Trojan detection, logic locking, and security-aware RTL design.
 
-The goal is to explore and evaluate methodologies used to detect malicious modifications in digital integrated circuits—an increasingly critical challenge in modern semiconductor supply chains.
+The goal is to explore and evaluate methodologies used to detect malicious modifications in digital integrated circuits, an increasingly critical challenge in modern semiconductor supply chains.
 
 This project supports research on:
 1. Hardware Trojan insertion, activation, and payload behavior

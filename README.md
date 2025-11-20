@@ -44,7 +44,6 @@ Early-career contributions to the field
 
 Future publication and NIW/EB1A evidence-building
 
-📁 Repository Structure
 hardware-trojan-detection-experiments
 │
 ├── src/
@@ -63,6 +62,7 @@ hardware-trojan-detection-experiments
 │
 └── docs/
     └── notes.md           # Research notes and reading summaries
+
 
 🧪 Experiments Included
 1. Trojan Insertion Experiments
